@@ -1,6 +1,7 @@
 import requests
 from data.constants import *
 from data.keys import *
+from data.system_variables import *
 
 @bot.command()
 async def get_infos(ctx):
@@ -8,7 +9,7 @@ async def get_infos(ctx):
     
     url = "https://openrouter.ai/api/v1/auth/key"
     headers = {
-        "Authorization": f"Bearer {OPENROUTER_API_KEY}"
+        "Authorization": f"Bearer {OPENROUTER_API_KEYS[CURRENT_API]}"
     }
 
     response = requests.get(url, headers=headers)

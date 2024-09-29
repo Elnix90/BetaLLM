@@ -3,6 +3,7 @@ from discord.ext import commands
 
 # Free models list
 free_models_list = [
+    "microsoft/phi-3-medium-128k-instruct:free",
     "meta-llama/llama-3.1-8b-instruct:free",
     "meta-llama/llama-3.2-11b-vision-instruct:free",
     "nousresearch/hermes-3-llama-3.1-405b:free",
@@ -12,7 +13,7 @@ free_models_list = [
 ]
 
 # Messages
-NO_PERMISSION_DENY_MESSAGE = "Vous n'avez pas l'autorisation d'exécuter cette commande."
+NO_PERMISSION_DENY_MESSAGE = "You do not have permission to run this command."
 
 
 

@@ -1,4 +1,4 @@
 data/keys.py
-
-*.log
-venv/
+logging/bot.log
+logging/system_logs.log
+logging/system_variables.log

@@ -171,3 +171,199 @@
 2024-09-29 17:07:10,937 - bot - INFO - Message starts with command: %get_infos -> processing
 2024-09-29 17:07:17,114 - bot - INFO - Message started as a question: <@1286951598958051371> salut -> sending request to API
 2024-09-29 17:07:17,774 - bot - ERROR - API Error: Code 402, Message: You are either out of credits, or requesting a resource that requires owning least a few. Please visit https://openrouter.ai/credits to add more.
+2024-09-29 18:07:08,534 - bot - INFO - The bot is connected as BetaLLM#1090
+2024-09-29 18:07:09,606 - bot - INFO - Member roles have been assigned
+2024-09-29 18:07:30,006 - bot - INFO - Message starts with command: %switch -> processing
+2024-09-29 18:07:44,843 - bot - INFO - Message starts with command: %switch microsoft/phi-3-medium-128k-instruct:free -> processing
+2024-09-29 18:07:44,843 - bot - ERROR - An error occurred: Converting to "int" failed for parameter "n".
+2024-09-29 18:08:01,231 - bot - INFO - Message starts with command: %switch 0 -> processing
+2024-09-29 18:08:07,664 - bot - INFO - Message starts with command: %switch -> processing
+2024-09-29 18:08:16,424 - bot - INFO - Message starts with command: %switch -> processing
+2024-09-29 18:08:17,879 - bot - INFO - Message starts with command: %switch -> processing
+2024-09-29 18:08:19,146 - bot - INFO - Message starts with command: %switch -> processing
+2024-09-29 18:08:24,454 - bot - INFO - Message started as a question: <@1286951598958051371> test -> sending request to API
+2024-09-29 18:08:30,448 - bot - INFO - Response sent and logs saved for user 1154096065411297402
+2024-09-29 18:09:29,180 - bot - INFO - Message started as a question: <@1286951598958051371> combien font 2**2 ? -> sending request to API
+2024-09-29 18:09:31,494 - bot - INFO - Response sent and logs saved for user 1123534156626939945
+2024-09-29 18:10:25,736 - bot - INFO - Message started as a question: et maintenant 9**9 -> sending request to API
+2024-09-29 18:10:28,102 - bot - INFO - Response sent and logs saved for user 1123534156626939945
+2024-09-29 18:11:33,110 - bot - INFO - Message started as a question: <@1286951598958051371> je t'aime -> sending request to API
+2024-09-29 18:11:36,048 - bot - INFO - Response sent and logs saved for user 1154096065411297402
+2024-09-29 18:11:41,807 - bot - INFO - Message started as a question: bien vu ! combien font 10**9/10**-25 -> sending request to API
+2024-09-29 18:11:45,813 - bot - INFO - Response sent and logs saved for user 1123534156626939945
+2024-09-29 18:13:58,946 - bot - INFO - The bot is connected as BetaLLM#1090
+2024-09-29 18:13:59,997 - bot - INFO - Member roles have been assigned
+2024-09-29 18:14:08,545 - bot - INFO - Message started as a question: <@1286951598958051371> saluy -> sending request to API
+2024-09-29 18:14:10,468 - bot - INFO - Response sent and logs saved for user 1154096065411297402
+2024-09-29 18:15:33,742 - bot - INFO - Message started as a question: <@1286951598958051371> j'aime les pommes -> sending request to API
+2024-09-29 18:15:36,500 - bot - INFO - Response sent and logs saved for user 1154096065411297402
+2024-09-29 18:15:40,369 - bot - INFO - Message starts with command: %reset -> processing
+2024-09-29 18:17:30,850 - bot - INFO - Message starts with command: %pause -> processing
+2024-09-29 18:17:50,801 - bot - INFO - Message started as a question: <@1286951598958051371> iekzs -> sending request to API
+2024-09-29 18:17:51,287 - bot - INFO - Channel pause is enabled, request from non-admin user rejected
+2024-09-29 18:18:15,983 - bot - INFO - Message starts with command: %clear 10 -> processing
+2024-09-29 18:18:15,985 - bot - ERROR - An error occurred: Command raised an exception: AttributeError: 'async_generator' object has no attribute 'flatten'
+2024-09-29 18:18:58,762 - bot - INFO - Message starts with command: %get_infos -> processing
+2024-09-29 18:28:49,285 - bot - INFO - The bot is connected as BetaLLM#1090
+2024-09-29 18:28:50,371 - bot - INFO - Member roles have been assigned
+2024-09-29 18:28:50,555 - bot - INFO - Message started as a question: <@1286951598958051371> salut -> sending request to API
+2024-09-29 18:28:51,738 - bot - ERROR - Error during API call: argument of type 'coroutine' is not iterable
+2024-09-29 18:31:41,199 - bot - INFO - The bot is connected as BetaLLM#1090
+2024-09-29 18:31:42,035 - bot - INFO - Member roles have been assigned
+2024-09-29 18:31:42,356 - bot - INFO - Message started as a question: <@1286951598958051371> salut -> sending request to API
+2024-09-29 18:31:44,324 - bot - INFO - Response sent and logs saved for user 1154096065411297402
+2024-09-29 18:31:58,591 - bot - INFO - Message starts with command: %switch -> processing
+2024-09-29 18:32:03,410 - bot - INFO - Message started as a question: <@1286951598958051371> salut -> sending request to API
+2024-09-29 18:32:05,856 - bot - INFO - Response sent and logs saved for user 1154096065411297402
+2024-09-29 18:32:13,052 - bot - INFO - Message started as a question: <@1286951598958051371> salut -> sending request to API
+2024-09-29 18:32:15,600 - bot - INFO - Response sent and logs saved for user 1154096065411297402
+2024-09-29 18:32:20,161 - bot - INFO - Message starts with command: %switch -> processing
+2024-09-29 18:32:23,683 - bot - INFO - Message started as a question: <@1286951598958051371> salut -> sending request to API
+2024-09-29 18:32:26,512 - bot - INFO - Response sent and logs saved for user 1154096065411297402
+2024-09-29 18:32:32,212 - bot - INFO - Message starts with command: %switch -> processing
+2024-09-29 18:32:34,949 - bot - INFO - Message started as a question: <@1286951598958051371> salut -> sending request to API
+2024-09-29 18:32:36,973 - bot - INFO - Response sent and logs saved for user 1154096065411297402
+2024-09-29 18:32:39,365 - bot - INFO - Message starts with command: %switch -> processing
+2024-09-29 18:32:45,099 - bot - INFO - Message started as a question: <@1286951598958051371> salut -> sending request to API
+2024-09-29 18:32:49,121 - bot - INFO - Response sent and logs saved for user 1154096065411297402
+2024-09-29 18:33:02,435 - bot - INFO - Message starts with command: %switch -> processing
+2024-09-29 18:33:06,975 - bot - INFO - Message started as a question: <@1286951598958051371> salut -> sending request to API
+2024-09-29 18:33:09,259 - bot - INFO - Response sent and logs saved for user 1154096065411297402
+2024-09-29 18:33:11,012 - bot - WARNING - Role Membre not found
+2024-09-29 18:33:18,060 - bot - INFO - Message starts with command: %switch -> processing
+2024-09-29 18:33:23,962 - bot - INFO - Message started as a question: <@1286951598958051371> saslut -> sending request to API
+2024-09-29 18:33:26,763 - bot - INFO - Response sent and logs saved for user 1154096065411297402
+2024-09-29 18:34:00,520 - bot - INFO - The bot is connected as BetaLLM#1090
+2024-09-29 18:34:05,787 - bot - INFO - Member roles have been assigned
+2024-09-29 18:34:22,843 - bot - INFO - Message started as a question: <@1286951598958051371> salut -> sending request to API
+2024-09-29 18:34:23,672 - bot - ERROR - API Error: Code 402, Message: You are either out of credits, or requesting a resource that requires owning least a few. Please visit https://openrouter.ai/credits to add more.
+2024-09-29 18:34:37,631 - bot - INFO - Message starts with command: %switch -> processing
+2024-09-29 18:34:41,530 - bot - INFO - Message started as a question: <@1286951598958051371> salut -> sending request to API
+2024-09-29 18:34:42,166 - bot - ERROR - API Error: Code 402, Message: You are either out of credits, or requesting a resource that requires owning least a few. Please visit https://openrouter.ai/credits to add more.
+2024-09-29 18:35:10,391 - bot - INFO - The bot is connected as BetaLLM#1090
+2024-09-29 18:35:11,563 - bot - INFO - Message started as a question: <@1286951598958051371> salut -> sending request to API
+2024-09-29 18:35:12,953 - bot - ERROR - API Error: Code 404, Message: No endpoints found for this model.
+2024-09-29 18:35:12,994 - bot - INFO - Member roles have been assigned
+2024-09-29 18:35:24,847 - bot - INFO - Message starts with command: %switch -> processing
+2024-09-29 18:35:28,921 - bot - INFO - Message started as a question: <@1286951598958051371> salut -> sending request to API
+2024-09-29 18:35:29,585 - bot - ERROR - API Error: Code 404, Message: No endpoints found for this model.
+2024-09-29 18:35:54,802 - bot - INFO - The bot is connected as BetaLLM#1090
+2024-09-29 18:35:55,682 - bot - INFO - Member roles have been assigned
+2024-09-29 18:35:59,626 - bot - INFO - Message started as a question: <@1286951598958051371> salut -> sending request to API
+2024-09-29 18:36:01,929 - bot - INFO - Response sent and logs saved for user 1154096065411297402
+2024-09-29 18:36:14,933 - bot - INFO - Message starts with command: %get_infos -> processing
+2024-09-29 19:06:25,031 - bot - INFO - The bot is connected as BetaLLM#1090
+2024-09-29 19:06:25,985 - bot - INFO - Member roles have been assigned
+2024-09-29 19:06:28,715 - bot - INFO - Message started as a question: <@1286951598958051371> salut -> sending request to API
+2024-09-29 19:06:30,445 - bot - INFO - Response sent and logs saved for channel 1287054887024328766
+2024-09-29 19:07:41,704 - bot - INFO - The bot is connected as BetaLLM#1090
+2024-09-29 19:07:42,562 - bot - INFO - Member roles have been assigned
+2024-09-29 19:07:42,813 - bot - INFO - Message started as a question: <@1286951598958051371> salut -> sending request to API
+2024-09-29 19:07:43,748 - bot - ERROR - API Error: Code 402, Message: You are either out of credits, or requesting a resource that requires owning least a few. Please visit https://openrouter.ai/credits to add more.
+2024-09-29 19:08:06,569 - bot - INFO - The bot is connected as BetaLLM#1090
+2024-09-29 19:08:07,396 - bot - INFO - Member roles have been assigned
+2024-09-29 19:08:14,736 - bot - INFO - Message started as a question: <@1286951598958051371> alut -> sending request to API
+2024-09-29 19:08:17,454 - bot - INFO - Response sent and logs saved for channel 1287054887024328766
+2024-09-29 19:08:32,840 - bot - INFO - Message started as a question: et ta soeur -> sending request to API
+2024-09-29 19:08:34,722 - bot - INFO - Response sent and logs saved for channel 1287054887024328766
+2024-09-29 19:08:43,031 - bot - INFO - Message started as a question: je suis ton père -> sending request to API
+2024-09-29 19:08:44,837 - bot - INFO - Response sent and logs saved for channel 1287054887024328766
+2024-09-29 19:08:55,647 - bot - INFO - Message started as a question: connais tu la web série noob? -> sending request to API
+2024-09-29 19:08:57,592 - bot - INFO - Response sent and logs saved for channel 1287054887024328766
+2024-09-29 19:09:14,873 - bot - INFO - Message started as a question: heu non, précise ce que tu pense -> sending request to API
+2024-09-29 19:09:17,183 - bot - INFO - Response sent and logs saved for channel 1287054887024328766
+2024-09-29 19:09:46,268 - bot - INFO - Message started as a question: ce n'est pas ca. tu connais "Noob- Olydry"? -> sending request to API
+2024-09-29 19:09:48,882 - bot - INFO - Response sent and logs saved for channel 1287054887024328766
+2024-09-29 19:10:11,219 - bot - INFO - Message started as a question: oula, c'est moi elnix, tu le sais ca non? -> sending request to API
+2024-09-29 19:10:13,106 - bot - INFO - Response sent and logs saved for channel 1287054887024328766
+2024-09-29 19:10:37,577 - bot - INFO - The bot is connected as BetaLLM#1090
+2024-09-29 19:10:38,846 - bot - INFO - Message starts with command: %reset -> processing
+2024-09-29 19:10:39,450 - bot - INFO - Member roles have been assigned
+2024-09-29 19:10:42,865 - bot - INFO - Message started as a question: <@1286951598958051371> salut -> sending request to API
+2024-09-29 19:10:44,354 - bot - INFO - Response sent and logs saved for channel 1287054887024328766
+2024-09-29 19:11:27,615 - bot - INFO - The bot is connected as BetaLLM#1090
+2024-09-29 19:11:28,370 - bot - INFO - Member roles have been assigned
+2024-09-29 19:11:28,508 - bot - INFO - Message starts with command: %reset -> processing
+2024-09-29 19:11:33,697 - bot - INFO - Message started as a question: <@1286951598958051371> salut -> sending request to API
+2024-09-29 19:11:34,439 - bot - ERROR - API Error: Code 402, Message: You are either out of credits, or requesting a resource that requires owning least a few. Please visit https://openrouter.ai/credits to add more.
+2024-09-29 19:20:42,124 - bot - INFO - The bot is connected as BetaLLM#1090
+2024-09-29 19:20:42,924 - bot - INFO - Member roles have been assigned
+2024-09-29 19:20:58,577 - bot - INFO - Message started as a question: <@1286951598958051371> salut -> sending request to API
+2024-09-29 19:21:01,012 - bot - INFO - Response sent and logs saved for channel 1287054887024328766
+2024-09-29 19:36:42,259 - bot - INFO - The bot is connected as BetaLLM#1090
+2024-09-29 19:36:43,135 - bot - INFO - Member roles have been assigned
+2024-09-29 19:36:43,664 - bot - INFO - Message started as a question: <@1286951598958051371> salut -> sending request to API
+2024-09-29 19:39:01,786 - bot - INFO - The bot is connected as BetaLLM#1090
+2024-09-29 19:39:03,246 - bot - INFO - Member roles have been assigned
+2024-09-29 19:39:03,527 - bot - INFO - Message started as a question: <@1286951598958051371> salut -> sending request to API
+2024-09-29 19:40:02,952 - bot - INFO - The bot is connected as BetaLLM#1090
+2024-09-29 19:40:03,777 - bot - INFO - Member roles have been assigned
+2024-09-29 19:40:04,219 - bot - INFO - Message started as a question: <@1286951598958051371> salut -> sending request to API
+2024-09-29 19:40:06,339 - bot - INFO - Response sent and logs saved for channel 1287054887024328766
+2024-09-29 19:40:13,880 - bot - INFO - Message starts with command: %reset -> processing
+2024-09-29 19:46:49,849 - bot - INFO - The bot is connected as BetaLLM#1090
+2024-09-29 19:46:50,809 - bot - INFO - Member roles have been assigned
+2024-09-29 19:46:53,712 - bot - INFO - Message starts with command: %help -> processing
+2024-09-29 19:47:05,159 - bot - INFO - Message starts with command: %add_admin <@1123534156626939945> -> processing
+2024-09-29 20:06:10,448 - bot - INFO - The bot is connected as BetaLLM#1090
+2024-09-29 20:06:11,391 - bot - INFO - Member roles have been assigned
+2024-09-29 20:06:14,066 - bot - INFO - Message starts with command: %add_admin <@1154096065411297402> -> processing
+2024-09-29 20:06:23,600 - bot - INFO - Message starts with command: %blch -> processing
+2024-09-29 20:06:47,981 - bot - INFO - Message starts with command: %clear 5 -> processing
+2024-09-29 20:06:47,983 - bot - ERROR - An error occurred: Command raised an exception: AttributeError: 'async_generator' object has no attribute 'flatten'
+2024-09-29 20:17:08,676 - bot - INFO - The bot is connected as BetaLLM#1090
+2024-09-29 20:17:10,004 - bot - INFO - Member roles have been assigned
+2024-09-29 20:17:12,771 - bot - INFO - Message starts with command: %clear 5 -> processing
+2024-09-29 20:17:29,759 - bot - INFO - Message starts with command: %global_pause -> processing
+2024-09-29 20:17:34,637 - bot - INFO - Message starts with command: %get_infos -> processing
+2024-09-29 20:17:34,639 - bot - ERROR - An error occurred: Command raised an exception: NameError: name 'OPENROUTER_API_KEY' is not defined
+2024-09-29 20:19:22,583 - bot - INFO - The bot is connected as BetaLLM#1090
+2024-09-29 20:19:23,944 - bot - INFO - Member roles have been assigned
+2024-09-29 20:19:24,412 - bot - INFO - Message starts with command: %get_infos -> processing
+2024-09-29 20:19:43,615 - bot - INFO - Message starts with command: %global_unpause -> processing
+2024-09-29 20:25:42,928 - bot - INFO - The bot is connected as BetaLLM#1090
+2024-09-29 20:25:43,826 - bot - INFO - Member roles have been assigned
+2024-09-29 20:25:51,828 - bot - INFO - Message starts with command: %nick <@1123534156626939945> papy -> processing
+2024-09-29 20:26:08,389 - bot - INFO - Message starts with command: %nick <@1154096065411297402> gigachad -> processing
+2024-09-29 20:26:21,344 - bot - INFO - Message starts with command: %nick <@1154096065411297402> -> processing
+2024-09-29 20:26:36,665 - bot - INFO - Message starts with command: %pause -> processing
+2024-09-29 20:26:42,143 - bot - INFO - Message starts with command: %unpause -> processing
+2024-09-29 20:27:35,377 - bot - INFO - Message starts with command: %help -> processing
+2024-09-29 20:27:53,190 - bot - INFO - Message starts with command: %remove_admin <@1154096065411297402> -> processing
+2024-09-29 20:28:04,981 - bot - INFO - Message starts with command: %resst -> processing
+2024-09-29 20:28:04,982 - bot - WARNING - Command not found: %resst
+2024-09-29 20:28:10,306 - bot - INFO - Message starts with command: %reset -> processing
+2024-09-29 20:34:03,760 - bot - INFO - The bot is connected as BetaLLM#1090
+2024-09-29 20:34:05,200 - bot - INFO - Member roles have been assigned
+2024-09-29 20:34:06,751 - bot - INFO - Message starts with command: %set_history -> processing
+2024-09-29 20:34:28,647 - bot - INFO - Message starts with command: %help -> processing
+2024-09-29 20:37:16,628 - bot - INFO - The bot is connected as BetaLLM#1090
+2024-09-29 20:37:17,551 - bot - INFO - Member roles have been assigned
+2024-09-29 20:37:17,772 - bot - INFO - Message starts with command: %help -> processing
+2024-09-29 20:37:31,507 - bot - INFO - Message starts with command: %switch_api -> processing
+2024-09-29 20:37:52,298 - bot - INFO - Message starts with command: %switch_model -> processing
+2024-09-29 20:38:03,084 - bot - INFO - Message started as a question: <@1286951598958051371> salut -> sending request to API
+2024-09-29 20:38:03,548 - bot - WARNING - Attempt to use bot in non-whitelisted channel: 1287054887024328766
+2024-09-29 20:38:12,954 - bot - INFO - Message starts with command: %wlch -> processing
+2024-09-29 20:38:17,376 - bot - INFO - Message started as a question: <@1286951598958051371> salut -> sending request to API
+2024-09-29 20:38:21,327 - bot - INFO - Response sent and logs saved for channel 1287054887024328766
+2024-09-29 20:38:31,828 - bot - INFO - Message starts with command: %toggle_history -> processing
+2024-09-29 20:38:47,709 - bot - INFO - Message starts with command: %unpause -> processing
+2024-09-29 20:41:52,013 - bot - INFO - The bot is connected as BetaLLM#1090
+2024-09-29 20:41:53,016 - bot - INFO - Member roles have been assigned
+2024-09-29 20:41:53,938 - bot - INFO - Message starts with command: %switch_api -> processing
+2024-09-29 20:41:53,940 - bot - ERROR - An error occurred: Command raised an exception: TypeError: unsupported operand type(s) for +: 'NoneType' and 'int'
+2024-09-29 20:45:52,604 - bot - INFO - The bot is connected as BetaLLM#1090
+2024-09-29 20:45:53,702 - bot - INFO - Member roles have been assigned
+2024-09-29 20:46:28,812 - bot - INFO - Message starts with command: %switch_api -> processing
+2024-09-29 20:46:28,815 - bot - ERROR - An error occurred: Command raised an exception: TypeError: unsupported operand type(s) for +: 'NoneType' and 'int'
+2024-09-29 20:48:38,043 - bot - INFO - The bot is connected as BetaLLM#1090
+2024-09-29 20:48:38,985 - bot - INFO - Member roles have been assigned
+2024-09-29 20:48:40,580 - bot - INFO - Message starts with command: %switch_api -> processing
+2024-09-29 20:50:22,363 - bot - INFO - The bot is connected as BetaLLM#1090
+2024-09-29 20:50:23,196 - bot - INFO - Member roles have been assigned
+2024-09-29 20:51:18,452 - bot - INFO - The bot is connected as BetaLLM#1090
+2024-09-29 20:51:19,378 - bot - INFO - Member roles have been assigned
+2024-09-29 20:51:26,656 - bot - INFO - Message starts with command: %switch_api -> processing
+2024-09-29 20:51:35,200 - bot - INFO - Message starts with command: %switch_api -> processing
+2024-09-29 20:51:39,316 - bot - INFO - Message starts with command: %switch_api -> processing

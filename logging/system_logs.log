@@ -109,3 +109,218 @@
 2024-09-29 17:07:17,115 - system_logs - WARNING - Log file not found: logs/ch_1287054887024328766_logs.json. Initializing with default values.
 2024-09-29 17:07:17,116 - system_logs - WARNING - Log file not found: logs/ch_1287054887024328766_logs.json. Initializing with default values.
 2024-09-29 17:07:17,116 - system_logs - INFO - Returning all 0 interactions
+2024-09-29 18:08:24,455 - system_logs - WARNING - Log file not found: logs/ch_1287054887024328766_logs.json. Initializing with default values.
+2024-09-29 18:08:24,456 - system_logs - WARNING - Log file not found: logs/ch_1287054887024328766_logs.json. Initializing with default values.
+2024-09-29 18:08:24,457 - system_logs - INFO - Returning all 0 interactions
+2024-09-29 18:08:30,441 - system_logs - WARNING - Log file not found: logs/ch_1287054887024328766_logs.json. Initializing with default values.
+2024-09-29 18:08:30,443 - system_logs - INFO - Added new log entry
+2024-09-29 18:08:30,446 - system_logs - INFO - Successfully updated logs/ch_1287054887024328766_logs.json
+2024-09-29 18:09:29,193 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:09:29,194 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:09:29,195 - system_logs - INFO - Returning all 2 interactions
+2024-09-29 18:09:31,491 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:09:31,491 - system_logs - INFO - Added new log entry
+2024-09-29 18:09:31,493 - system_logs - INFO - Successfully updated logs/ch_1287054887024328766_logs.json
+2024-09-29 18:10:25,749 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:10:25,750 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:10:25,750 - system_logs - INFO - Returning all 4 interactions
+2024-09-29 18:10:28,099 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:10:28,099 - system_logs - INFO - Added new log entry
+2024-09-29 18:10:28,101 - system_logs - INFO - Successfully updated logs/ch_1287054887024328766_logs.json
+2024-09-29 18:11:33,138 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:11:33,140 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:11:33,142 - system_logs - INFO - Returning last 5 interactions
+2024-09-29 18:11:36,042 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:11:36,043 - system_logs - INFO - Added new log entry
+2024-09-29 18:11:36,047 - system_logs - INFO - Successfully updated logs/ch_1287054887024328766_logs.json
+2024-09-29 18:11:41,842 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:11:41,845 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:11:41,846 - system_logs - INFO - Returning last 5 interactions
+2024-09-29 18:11:45,807 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:11:45,808 - system_logs - INFO - Added new log entry
+2024-09-29 18:11:45,812 - system_logs - INFO - Successfully updated logs/ch_1287054887024328766_logs.json
+2024-09-29 18:14:08,560 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:14:08,561 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:14:08,562 - system_logs - INFO - Returning last 5 interactions
+2024-09-29 18:14:10,464 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:14:10,465 - system_logs - INFO - Added new log entry
+2024-09-29 18:14:10,467 - system_logs - INFO - Successfully updated logs/ch_1287054887024328766_logs.json
+2024-09-29 18:15:33,757 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:15:33,758 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:15:33,758 - system_logs - INFO - Returning last 5 interactions
+2024-09-29 18:15:36,493 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:15:36,494 - system_logs - INFO - Added new log entry
+2024-09-29 18:15:36,498 - system_logs - INFO - Successfully updated logs/ch_1287054887024328766_logs.json
+2024-09-29 18:17:30,851 - system_logs - WARNING - Log file not found: logs/ch_1287054887024328766_logs.json. Initializing with default values.
+2024-09-29 18:17:30,852 - system_logs - WARNING - Log file not found: logs/ch_1287054887024328766_logs.json. Initializing with default values.
+2024-09-29 18:17:30,853 - system_logs - INFO - Updated PAUSE: True
+2024-09-29 18:17:30,855 - system_logs - INFO - Successfully updated logs/ch_1287054887024328766_logs.json
+2024-09-29 18:17:50,812 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:28:50,557 - system_logs - INFO - Created 'logs' directory
+2024-09-29 18:28:50,557 - system_logs - WARNING - Log file not found: logs/ch_1287054887024328766_logs.json. Initializing with default values.
+2024-09-29 18:28:50,558 - system_logs - WARNING - Log file not found: logs/ch_1287054887024328766_logs.json. Initializing with default values.
+2024-09-29 18:28:50,559 - system_logs - INFO - Returning all 0 interactions
+2024-09-29 18:31:42,357 - system_logs - WARNING - Log file not found: logs/ch_1287054887024328766_logs.json. Initializing with default values.
+2024-09-29 18:31:42,358 - system_logs - WARNING - Log file not found: logs/ch_1287054887024328766_logs.json. Initializing with default values.
+2024-09-29 18:31:42,358 - system_logs - INFO - Returning all 0 interactions
+2024-09-29 18:31:44,317 - system_logs - WARNING - Log file not found: logs/ch_1287054887024328766_logs.json. Initializing with default values.
+2024-09-29 18:31:44,318 - system_logs - INFO - Added new log entry
+2024-09-29 18:31:44,322 - system_logs - INFO - Successfully updated logs/ch_1287054887024328766_logs.json
+2024-09-29 18:32:03,423 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:32:03,425 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:32:03,425 - system_logs - INFO - Returning all 2 interactions
+2024-09-29 18:32:05,853 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:32:05,853 - system_logs - INFO - Added new log entry
+2024-09-29 18:32:05,856 - system_logs - INFO - Successfully updated logs/ch_1287054887024328766_logs.json
+2024-09-29 18:32:13,065 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:32:13,066 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:32:13,067 - system_logs - INFO - Returning all 4 interactions
+2024-09-29 18:32:15,595 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:32:15,596 - system_logs - INFO - Added new log entry
+2024-09-29 18:32:15,599 - system_logs - INFO - Successfully updated logs/ch_1287054887024328766_logs.json
+2024-09-29 18:32:23,700 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:32:23,701 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:32:23,702 - system_logs - INFO - Returning last 5 interactions
+2024-09-29 18:32:26,508 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:32:26,508 - system_logs - INFO - Added new log entry
+2024-09-29 18:32:26,511 - system_logs - INFO - Successfully updated logs/ch_1287054887024328766_logs.json
+2024-09-29 18:32:34,963 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:32:34,964 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:32:34,965 - system_logs - INFO - Returning last 5 interactions
+2024-09-29 18:32:36,969 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:32:36,969 - system_logs - INFO - Added new log entry
+2024-09-29 18:32:36,972 - system_logs - INFO - Successfully updated logs/ch_1287054887024328766_logs.json
+2024-09-29 18:32:45,113 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:32:45,115 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:32:45,115 - system_logs - INFO - Returning last 5 interactions
+2024-09-29 18:32:49,110 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:32:49,112 - system_logs - INFO - Added new log entry
+2024-09-29 18:32:49,120 - system_logs - INFO - Successfully updated logs/ch_1287054887024328766_logs.json
+2024-09-29 18:33:06,990 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:33:06,992 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:33:06,992 - system_logs - INFO - Returning last 5 interactions
+2024-09-29 18:33:09,254 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:33:09,255 - system_logs - INFO - Added new log entry
+2024-09-29 18:33:09,258 - system_logs - INFO - Successfully updated logs/ch_1287054887024328766_logs.json
+2024-09-29 18:33:23,976 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:33:23,977 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:33:23,978 - system_logs - INFO - Returning last 5 interactions
+2024-09-29 18:33:26,756 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:33:26,757 - system_logs - INFO - Added new log entry
+2024-09-29 18:33:26,761 - system_logs - INFO - Successfully updated logs/ch_1287054887024328766_logs.json
+2024-09-29 18:34:22,859 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:34:22,860 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:34:22,862 - system_logs - INFO - Returning last 5 interactions
+2024-09-29 18:34:41,532 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:34:41,534 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:34:41,535 - system_logs - INFO - Returning last 5 interactions
+2024-09-29 18:35:11,565 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:35:11,566 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:35:11,567 - system_logs - INFO - Returning last 5 interactions
+2024-09-29 18:35:28,922 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:35:28,923 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:35:28,924 - system_logs - INFO - Returning last 5 interactions
+2024-09-29 18:35:59,628 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:35:59,629 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:35:59,630 - system_logs - INFO - Returning last 5 interactions
+2024-09-29 18:36:01,924 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 18:36:01,924 - system_logs - INFO - Added new log entry
+2024-09-29 18:36:01,928 - system_logs - INFO - Successfully updated logs/ch_1287054887024328766_logs.json
+2024-09-29 19:06:28,731 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 19:06:28,731 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 19:06:28,747 - system_logs - INFO - Returning last 5 interactions
+2024-09-29 19:06:30,441 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 19:06:30,441 - system_logs - INFO - Added new log entry
+2024-09-29 19:06:30,444 - system_logs - INFO - Successfully updated logs/ch_1287054887024328766_logs.json
+2024-09-29 19:07:42,834 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 19:07:42,836 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 19:07:42,836 - system_logs - INFO - Returning last 5 interactions
+2024-09-29 19:08:14,736 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 19:08:14,738 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 19:08:14,739 - system_logs - INFO - Returning last 5 interactions
+2024-09-29 19:08:17,448 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 19:08:17,449 - system_logs - INFO - Added new log entry
+2024-09-29 19:08:17,453 - system_logs - INFO - Successfully updated logs/ch_1287054887024328766_logs.json
+2024-09-29 19:08:32,858 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 19:08:32,860 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 19:08:32,861 - system_logs - INFO - Returning last 5 interactions
+2024-09-29 19:08:34,719 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 19:08:34,719 - system_logs - INFO - Added new log entry
+2024-09-29 19:08:34,721 - system_logs - INFO - Successfully updated logs/ch_1287054887024328766_logs.json
+2024-09-29 19:08:43,047 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 19:08:43,048 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 19:08:43,048 - system_logs - INFO - Returning last 5 interactions
+2024-09-29 19:08:44,831 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 19:08:44,833 - system_logs - INFO - Added new log entry
+2024-09-29 19:08:44,836 - system_logs - INFO - Successfully updated logs/ch_1287054887024328766_logs.json
+2024-09-29 19:08:55,661 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 19:08:55,663 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 19:08:55,664 - system_logs - INFO - Returning last 5 interactions
+2024-09-29 19:08:57,587 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 19:08:57,587 - system_logs - INFO - Added new log entry
+2024-09-29 19:08:57,591 - system_logs - INFO - Successfully updated logs/ch_1287054887024328766_logs.json
+2024-09-29 19:09:14,888 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 19:09:14,889 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 19:09:14,890 - system_logs - INFO - Returning last 5 interactions
+2024-09-29 19:09:17,178 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 19:09:17,179 - system_logs - INFO - Added new log entry
+2024-09-29 19:09:17,182 - system_logs - INFO - Successfully updated logs/ch_1287054887024328766_logs.json
+2024-09-29 19:09:46,283 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 19:09:46,284 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 19:09:46,285 - system_logs - INFO - Returning last 5 interactions
+2024-09-29 19:09:48,874 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 19:09:48,875 - system_logs - INFO - Added new log entry
+2024-09-29 19:09:48,880 - system_logs - INFO - Successfully updated logs/ch_1287054887024328766_logs.json
+2024-09-29 19:10:11,234 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 19:10:11,236 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 19:10:11,236 - system_logs - INFO - Returning last 5 interactions
+2024-09-29 19:10:13,103 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 19:10:13,103 - system_logs - INFO - Added new log entry
+2024-09-29 19:10:13,105 - system_logs - INFO - Successfully updated logs/ch_1287054887024328766_logs.json
+2024-09-29 19:10:42,867 - system_logs - WARNING - Log file not found: logs/ch_1287054887024328766_logs.json. Initializing with default values.
+2024-09-29 19:10:42,868 - system_logs - WARNING - Log file not found: logs/ch_1287054887024328766_logs.json. Initializing with default values.
+2024-09-29 19:10:42,868 - system_logs - INFO - Returning all 0 interactions
+2024-09-29 19:10:44,349 - system_logs - WARNING - Log file not found: logs/ch_1287054887024328766_logs.json. Initializing with default values.
+2024-09-29 19:10:44,349 - system_logs - INFO - Added new log entry
+2024-09-29 19:10:44,353 - system_logs - INFO - Successfully updated logs/ch_1287054887024328766_logs.json
+2024-09-29 19:11:33,698 - system_logs - WARNING - Log file not found: logs/ch_1287054887024328766_logs.json. Initializing with default values.
+2024-09-29 19:11:33,700 - system_logs - WARNING - Log file not found: logs/ch_1287054887024328766_logs.json. Initializing with default values.
+2024-09-29 19:11:33,700 - system_logs - INFO - Returning all 0 interactions
+2024-09-29 19:20:58,577 - system_logs - WARNING - Log file not found: logs/ch_1287054887024328766_logs.json. Initializing with default values.
+2024-09-29 19:20:58,578 - system_logs - WARNING - Log file not found: logs/ch_1287054887024328766_logs.json. Initializing with default values.
+2024-09-29 19:20:58,578 - system_logs - INFO - Returning all 0 interactions
+2024-09-29 19:21:01,009 - system_logs - WARNING - Log file not found: logs/ch_1287054887024328766_logs.json. Initializing with default values.
+2024-09-29 19:21:01,009 - system_logs - INFO - Added new log entry
+2024-09-29 19:21:01,011 - system_logs - INFO - Successfully updated logs/ch_1287054887024328766_logs.json
+2024-09-29 19:36:43,688 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 19:39:03,529 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 19:40:04,220 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 19:40:04,221 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 19:40:04,222 - system_logs - INFO - Returning all 2 interactions
+2024-09-29 19:40:06,336 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 19:40:06,336 - system_logs - INFO - Added new log entry
+2024-09-29 19:40:06,338 - system_logs - INFO - Successfully updated logs/ch_1287054887024328766_logs.json
+2024-09-29 20:26:36,668 - system_logs - WARNING - Log file not found: logs/ch_1287054887024328766_logs.json. Initializing with default values.
+2024-09-29 20:26:36,669 - system_logs - WARNING - Log file not found: logs/ch_1287054887024328766_logs.json. Initializing with default values.
+2024-09-29 20:26:36,670 - system_logs - INFO - Updated PAUSE: True
+2024-09-29 20:26:36,673 - system_logs - INFO - Successfully updated logs/ch_1287054887024328766_logs.json
+2024-09-29 20:26:42,148 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 20:26:42,149 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 20:26:42,150 - system_logs - INFO - Updated PAUSE: 0
+2024-09-29 20:26:42,152 - system_logs - INFO - Successfully updated logs/ch_1287054887024328766_logs.json
+2024-09-29 20:34:06,751 - system_logs - WARNING - Log file not found: logs/ch_1287054887024328766_logs.json. Initializing with default values.
+2024-09-29 20:34:06,751 - system_logs - WARNING - Log file not found: logs/ch_1287054887024328766_logs.json. Initializing with default values.
+2024-09-29 20:34:06,751 - system_logs - INFO - Updated MAX_HISTORY: 5
+2024-09-29 20:34:06,751 - system_logs - INFO - Successfully updated logs/ch_1287054887024328766_logs.json
+2024-09-29 20:38:03,141 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 20:38:17,378 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 20:38:17,408 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 20:38:17,409 - system_logs - INFO - Returning all 0 interactions
+2024-09-29 20:38:21,319 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 20:38:21,321 - system_logs - INFO - Added new log entry
+2024-09-29 20:38:21,325 - system_logs - INFO - Successfully updated logs/ch_1287054887024328766_logs.json
+2024-09-29 20:38:31,852 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 20:38:31,854 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json
+2024-09-29 20:38:31,855 - system_logs - INFO - Updated HISTORY: False
+2024-09-29 20:38:31,859 - system_logs - INFO - Successfully updated logs/ch_1287054887024328766_logs.json
+2024-09-29 20:38:47,734 - system_logs - INFO - Logs loaded successfully from logs/ch_1287054887024328766_logs.json

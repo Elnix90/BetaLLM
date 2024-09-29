@@ -10,6 +10,7 @@ ADMINS_USERS_KEY = "ADMINS_USERS_IDS"
 PENDING_REQUEST_KEY = "PENDING_REQUEST"
 GLOBAL_PAUSE_KEY = "GLOBAL_PAUSE"
 CURRENT_MODEL_KEY = "CURRENT_MODEL"
+CURRENT_API_KEY = "CURRENT_API"
 
 def load_vars():
     try:
@@ -25,7 +26,8 @@ def load_vars():
             ADMINS_USERS_KEY: [],
             PENDING_REQUEST_KEY: [],
             GLOBAL_PAUSE_KEY: 0,
-            CURRENT_MODEL_KEY: 0
+            CURRENT_MODEL_KEY: 0,
+            CURRENT_API_KEY: 0
         }
     except json.JSONDecodeError:
         logger.error("Error decoding vars.json. Initializing with default values.")
@@ -35,10 +37,11 @@ def load_vars():
             ADMINS_USERS_KEY: [],
             PENDING_REQUEST_KEY: [],
             GLOBAL_PAUSE_KEY: 0,
-            CURRENT_MODEL_KEY: 0
+            CURRENT_MODEL_KEY: 0,
+            CURRENT_API_KEY: 0
         }
 
-def save_vars(wlch=None,wldm=None,admin=None,pending=None,glopa=None,curmo=None):
+def save_vars(wlch=None,wldm=None,admin=None,pending=None,glopa=None,curmo=None,curapi=None):
     data = load_vars()
     
     if wlch is not None:
@@ -59,6 +62,9 @@ def save_vars(wlch=None,wldm=None,admin=None,pending=None,glopa=None,curmo=None)
     if curmo is not None:
         data[CURRENT_MODEL_KEY] = curmo
         logger.info(f"Updated CURRENT_MODEL: {curmo}")
+    if curapi is not None:
+        data[CURRENT_API_KEY] = curapi
+        logger.info(f"Updated CURRENT_API: {curapi}")
 
     try:
         with open("data/vars.json", "w") as f:
@@ -75,4 +81,5 @@ ADMINS_USERS_IDS = variables[ADMINS_USERS_KEY]
 PENDING_REQUEST = variables[PENDING_REQUEST_KEY]
 GLOBAL_PAUSE = variables[GLOBAL_PAUSE_KEY]
 CURRENT_MODEL = variables[CURRENT_MODEL_KEY]
+CURRENT_API = variables[CURRENT_API_KEY]
 logger.info("Variables loaded and initialized")

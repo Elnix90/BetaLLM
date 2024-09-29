@@ -1,0 +1,12 @@
+{
+    "HISTORY": false,
+    "MAX_HISTORY": 5,
+    "PAUSE": false,
+    "LOGS": [
+        {
+            "user_id": 1154096065411297402,
+            "user_message": "salut",
+            "bot_response": " Salut, comment \u00e7a va\u00a0?"
+        }
+    ]
+}
