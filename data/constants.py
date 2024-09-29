@@ -1,12 +1,6 @@
 import discord
 from discord.ext import commands
 
-# Api and keys
-#OPENROUTER_API_KEY = "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"
-#OPENROUTER_API_KEY = "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" #yoann
-OPENROUTER_API_KEY = "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"
-DISCORD_TOKEN = "MTI4Njk1MTU5ODk1ODA1MTM3MQ.GPzUcY.cxlEDrA0zdCTEGSaIbXK5nt9HDCGEgyUKqqL2Y"
-
 # Free models list
 free_models_list = [
     "meta-llama/llama-3.1-8b-instruct:free",

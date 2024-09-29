@@ -6,6 +6,7 @@ import os
 
 from data.system_logs import *
 from data.constants import *
+from data.keys import *
 from data.system_variables import *
 from events.check_members_clicked_on_react import *
 
@@ -143,7 +144,7 @@ async def on_message(ctx):
                 try:
                     async with ctx.channel.typing():
                         response = requests.post(url, headers=headers, json=data)
-                        print(url,headers,data)
+#                        print(url,headers,data)
 #                        async with aiohttp.ClientSession() as session:
 #                            async with session.post(url, headers=headers, json=data) as response:
                         response_data = response.json()

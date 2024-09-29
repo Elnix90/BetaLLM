@@ -151,3 +151,23 @@
 2024-09-29 13:44:28,767 - bot - INFO - Member roles have been assigned
 2024-09-29 13:44:29,363 - bot - INFO - Message started as a question: <@1286951598958051371> salut -> sending request to API
 2024-09-29 13:44:30,279 - bot - ERROR - API Error: Code 402, Message: You are either out of credits, or requesting a resource that requires owning least a few. Please visit https://openrouter.ai/credits to add more.
+2024-09-29 17:00:18,279 - bot - INFO - The bot is connected as BetaLLM#1090
+2024-09-29 17:00:19,135 - bot - INFO - Member roles have been assigned
+2024-09-29 17:00:26,054 - bot - INFO - Message started as a question: <@1286951598958051371> salut -> sending request to API
+2024-09-29 17:00:26,871 - bot - ERROR - API Error: Code 402, Message: You are either out of credits, or requesting a resource that requires owning least a few. Please visit https://openrouter.ai/credits to add more.
+2024-09-29 17:03:52,174 - bot - INFO - The bot is connected as BetaLLM#1090
+2024-09-29 17:03:53,019 - bot - INFO - Member roles have been assigned
+2024-09-29 17:03:56,781 - bot - INFO - Message started as a question: <@1286951598958051371> salut -> sending request to API
+2024-09-29 17:03:57,564 - bot - ERROR - API Error: Code 402, Message: You are either out of credits, or requesting a resource that requires owning least a few. Please visit https://openrouter.ai/credits to add more.
+2024-09-29 17:05:07,923 - bot - INFO - Message starts with command: %get_infos -> processing
+2024-09-29 17:05:33,782 - bot - INFO - Message starts with command: %get_infos -> processing
+2024-09-29 17:05:40,260 - bot - INFO - Message starts with command: %get_infos -> processing
+2024-09-29 17:05:46,210 - bot - INFO - Message starts with command: %get_infos -> processing
+2024-09-29 17:06:00,861 - bot - INFO - The bot is connected as BetaLLM#1090
+2024-09-29 17:06:01,790 - bot - INFO - Member roles have been assigned
+2024-09-29 17:06:02,009 - bot - INFO - Message starts with command: %get_infos -> processing
+2024-09-29 17:07:09,419 - bot - INFO - The bot is connected as BetaLLM#1090
+2024-09-29 17:07:10,327 - bot - INFO - Member roles have been assigned
+2024-09-29 17:07:10,937 - bot - INFO - Message starts with command: %get_infos -> processing
+2024-09-29 17:07:17,114 - bot - INFO - Message started as a question: <@1286951598958051371> salut -> sending request to API
+2024-09-29 17:07:17,774 - bot - ERROR - API Error: Code 402, Message: You are either out of credits, or requesting a resource that requires owning least a few. Please visit https://openrouter.ai/credits to add more.

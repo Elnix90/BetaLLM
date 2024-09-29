@@ -1,5 +1,6 @@
 import requests
 from data.constants import *
+from data.keys import *
 
 @bot.command()
 async def get_infos(ctx):
