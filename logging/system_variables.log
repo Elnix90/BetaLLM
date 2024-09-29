@@ -1,0 +1,90 @@
+2024-09-29 10:36:44,060 - system_variables - INFO - Loading variables...
+2024-09-29 10:36:44,060 - system_variables - INFO - Variables loaded successfully from vars.json
+2024-09-29 10:36:44,060 - system_variables - INFO - Variables loaded and initialized
+2024-09-29 10:37:27,438 - system_variables - INFO - Loading variables...
+2024-09-29 10:37:27,438 - system_variables - INFO - Variables loaded successfully from vars.json
+2024-09-29 10:37:27,438 - system_variables - INFO - Variables loaded and initialized
+2024-09-29 10:38:37,458 - system_variables - INFO - Loading variables...
+2024-09-29 10:38:37,458 - system_variables - INFO - Variables loaded successfully from vars.json
+2024-09-29 10:38:37,458 - system_variables - INFO - Variables loaded and initialized
+2024-09-29 10:39:09,532 - system_variables - INFO - Loading variables...
+2024-09-29 10:39:09,532 - system_variables - INFO - Variables loaded successfully from vars.json
+2024-09-29 10:39:09,532 - system_variables - INFO - Variables loaded and initialized
+2024-09-29 10:41:48,251 - system_variables - INFO - Loading variables...
+2024-09-29 10:41:48,252 - system_variables - INFO - Variables loaded successfully from vars.json
+2024-09-29 10:41:48,252 - system_variables - INFO - Variables loaded and initialized
+2024-09-29 10:44:09,373 - system_variables - INFO - Loading variables...
+2024-09-29 10:44:09,373 - system_variables - INFO - Variables loaded successfully from vars.json
+2024-09-29 10:44:09,373 - system_variables - INFO - Variables loaded and initialized
+2024-09-29 10:46:04,381 - system_variables - INFO - Loading variables...
+2024-09-29 10:46:04,382 - system_variables - INFO - Variables loaded successfully from vars.json
+2024-09-29 10:46:04,383 - system_variables - INFO - Variables loaded and initialized
+2024-09-29 10:50:21,107 - system_variables - INFO - Loading variables...
+2024-09-29 10:50:21,107 - system_variables - INFO - Variables loaded successfully from vars.json
+2024-09-29 10:50:21,107 - system_variables - INFO - Variables loaded and initialized
+2024-09-29 10:53:07,631 - system_variables - INFO - Loading variables...
+2024-09-29 10:53:07,633 - system_variables - INFO - Variables loaded successfully from vars.json
+2024-09-29 10:53:07,634 - system_variables - INFO - Variables loaded and initialized
+2024-09-29 11:02:22,200 - system_variables - INFO - Loading variables...
+2024-09-29 11:02:22,200 - system_variables - INFO - Variables loaded successfully from vars.json
+2024-09-29 11:02:22,200 - system_variables - INFO - Variables loaded and initialized
+2024-09-29 11:18:52,974 - system_variables - INFO - Loading variables...
+2024-09-29 11:18:52,976 - system_variables - INFO - Variables loaded successfully from vars.json
+2024-09-29 11:18:52,976 - system_variables - INFO - Variables loaded and initialized
+2024-09-29 11:19:06,702 - system_variables - INFO - Loading variables...
+2024-09-29 11:19:06,702 - system_variables - INFO - Variables loaded successfully from vars.json
+2024-09-29 11:19:06,702 - system_variables - INFO - Variables loaded and initialized
+2024-09-29 11:20:57,044 - system_variables - INFO - Loading variables...
+2024-09-29 11:20:57,045 - system_variables - INFO - Variables loaded successfully from vars.json
+2024-09-29 11:20:57,046 - system_variables - INFO - Variables loaded and initialized
+2024-09-29 11:24:45,216 - system_variables - INFO - Loading variables...
+2024-09-29 11:24:45,217 - system_variables - INFO - Variables loaded successfully from vars.json
+2024-09-29 11:24:45,218 - system_variables - INFO - Variables loaded and initialized
+2024-09-29 11:33:50,337 - system_variables - INFO - Loading variables...
+2024-09-29 11:33:50,339 - system_variables - INFO - Variables loaded successfully from vars.json
+2024-09-29 11:33:50,341 - system_variables - INFO - Variables loaded and initialized
+2024-09-29 11:34:07,993 - system_variables - INFO - Variables loaded successfully from vars.json
+2024-09-29 11:34:07,993 - system_variables - INFO - Updated ALLOWED_CHANNELS_IDS: [1287054887024328766, 1287054859647979572]
+2024-09-29 11:34:07,995 - system_variables - INFO - Variables saved successfully to vars.json
+2024-09-29 11:36:44,424 - system_variables - INFO - Loading variables...
+2024-09-29 11:36:44,424 - system_variables - INFO - Variables loaded successfully from vars.json
+2024-09-29 11:36:44,424 - system_variables - INFO - Variables loaded and initialized
+2024-09-29 11:38:18,849 - system_variables - INFO - Loading variables...
+2024-09-29 11:38:18,849 - system_variables - INFO - Variables loaded successfully from vars.json
+2024-09-29 11:38:18,865 - system_variables - INFO - Variables loaded and initialized
+2024-09-29 11:39:29,124 - system_variables - INFO - Loading variables...
+2024-09-29 11:39:29,125 - system_variables - INFO - Variables loaded successfully from vars.json
+2024-09-29 11:39:29,125 - system_variables - INFO - Variables loaded and initialized
+2024-09-29 11:39:37,588 - system_variables - INFO - Variables loaded successfully from vars.json
+2024-09-29 11:39:37,590 - system_variables - INFO - Updated ADMINS_USERS_IDS: [1123534156626939945]
+2024-09-29 11:39:37,593 - system_variables - INFO - Variables saved successfully to vars.json
+2024-09-29 11:47:33,143 - system_variables - INFO - Loading variables...
+2024-09-29 11:47:33,144 - system_variables - INFO - Variables loaded successfully from vars.json
+2024-09-29 11:47:33,145 - system_variables - INFO - Variables loaded and initialized
+2024-09-29 11:59:52,824 - system_variables - INFO - Loading variables...
+2024-09-29 11:59:52,840 - system_variables - INFO - Variables loaded successfully from vars.json
+2024-09-29 11:59:52,840 - system_variables - INFO - Variables loaded and initialized
+2024-09-29 12:10:58,615 - system_variables - INFO - Loading variables...
+2024-09-29 12:10:58,615 - system_variables - INFO - Variables loaded successfully from vars.json
+2024-09-29 12:10:58,615 - system_variables - INFO - Variables loaded and initialized
+2024-09-29 12:11:07,164 - system_variables - INFO - Variables loaded successfully from vars.json
+2024-09-29 12:11:07,164 - system_variables - INFO - Updated ALLOWED_DM_IDS: [1287089531518189621]
+2024-09-29 12:11:07,166 - system_variables - INFO - Variables saved successfully to vars.json
+2024-09-29 12:30:46,251 - system_variables - INFO - Loading variables...
+2024-09-29 12:30:46,251 - system_variables - INFO - Variables loaded successfully from vars.json
+2024-09-29 12:30:46,251 - system_variables - INFO - Variables loaded and initialized
+2024-09-29 13:13:39,679 - system_variables - INFO - Loading variables...
+2024-09-29 13:13:39,680 - system_variables - INFO - Variables loaded successfully from vars.json
+2024-09-29 13:13:39,681 - system_variables - INFO - Variables loaded and initialized
+2024-09-29 13:15:06,488 - system_variables - INFO - Loading variables...
+2024-09-29 13:15:06,488 - system_variables - INFO - Variables loaded successfully from vars.json
+2024-09-29 13:15:06,489 - system_variables - INFO - Variables loaded and initialized
+2024-09-29 13:18:16,256 - system_variables - INFO - Loading variables...
+2024-09-29 13:18:16,256 - system_variables - INFO - Variables loaded successfully from vars.json
+2024-09-29 13:18:16,256 - system_variables - INFO - Variables loaded and initialized
+2024-09-29 13:18:45,794 - system_variables - INFO - Loading variables...
+2024-09-29 13:18:45,810 - system_variables - INFO - Variables loaded successfully from vars.json
+2024-09-29 13:18:45,810 - system_variables - INFO - Variables loaded and initialized
+2024-09-29 13:44:23,453 - system_variables - INFO - Loading variables...
+2024-09-29 13:44:23,468 - system_variables - INFO - Variables loaded successfully from vars.json
+2024-09-29 13:44:23,468 - system_variables - INFO - Variables loaded and initialized

@@ -1,0 +1,22 @@
+{
+    "HISTORY": true,
+    "MAX_HISTORY": 5,
+    "PAUSE": false,
+    "LOGS": [
+        {
+            "user_id": 1287310229637435434,
+            "user_message": "salut",
+            "bot_response": "Salut! Comment puis-je t'aider aujourd'hui?"
+        },
+        {
+            "user_id": 1287310229637435434,
+            "user_message": "qui suije",
+            "bot_response": "Je suis BetaLLM, un langage mod\u00e9lis\u00e9 par Elnix. Je suis un mod\u00e8le de langage artificial qui essaie de comprendre et de r\u00e9pondre aux questions et aux sujets de conversation. Qu'est-ce que tu veux savoir?"
+        },
+        {
+            "user_id": 1287310229637435434,
+            "user_message": "non, moi qui je suis?",
+            "bot_response": "D\u00e9sol\u00e9 pour la malentendance! Tu me poses la question \"qui suis-je\" en fran\u00e7ais. Je ne connais pas d'informations personnelles sur toi, mais si tu veux discuter ou me poser des questions, je suis l\u00e0 pour t'aider!"
+        }
+    ]
+}
