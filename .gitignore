@@ -1,4 +1,3 @@
 data/keys.py
-logging/bot.log
-logging/system_logs.log
-logging/system_variables.log
+logging/
+logs/
