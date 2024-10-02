@@ -1,6 +1,0 @@
-2024-09-29 20:25:51,831 - nick_command - INFO - elnix91 used %nick <@1123534156626939945> papy
-2024-09-29 20:25:52,308 - nick_command - ERROR - Error changing nickname: 403 Forbidden (error code: 50013): Missing Permissions
-2024-09-29 20:26:08,391 - nick_command - INFO - elnix91 used %nick <@1154096065411297402> gigachad
-2024-09-29 20:26:09,018 - nick_command - INFO - Elnix's nickname has been changed to gigachad
-2024-09-29 20:26:21,346 - nick_command - INFO - elnix91 used %nick <@1154096065411297402>
-2024-09-29 20:26:22,150 - nick_command - INFO - Elnix's nickname has been reset

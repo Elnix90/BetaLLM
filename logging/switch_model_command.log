@@ -1,4 +1,0 @@
-2024-09-29 20:37:52,299 - switch_model_command - INFO - elnix91 used %switch_model
-2024-09-29 20:37:52,726 - switch_model_command - INFO - AI model switched to meta-llama/llama-3.1-8b-instruct:free by elnix91
-2024-09-30 20:58:22,699 - switch_model_command - INFO - elnix91 used %switch_model 5
-2024-09-30 20:58:23,032 - switch_model_command - INFO - AI model switched to google/gemini-flash-8b-1.5-exp by elnix91
