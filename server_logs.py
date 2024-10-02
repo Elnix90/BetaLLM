@@ -33,9 +33,11 @@ async def log_to_server(ctx, user_message, bot_response):
 
     # timestamp
     ts = f"<t:{int(datetime.now().timestamp())}:F>"
-
+    user_name = ctx.author.name
+    user_id = ctx.author.id
+    
     # Envoyer les messages de logs
-    await send_large_message(log_channel, f"**User Request: {ts}**\n{user_message}\n**Bot Response:  {ts}**",False)
-    await send_large_message(log_channel, f"{bot_response}",False)
+    await send_large_message(log_channel, f"**User Request: {ts}**\nFrom: {user_name} (ID: {user_id})\n{user_message}\n**Bot Response: {ts}**", False)
+    await send_large_message(log_channel, f"{bot_response}", False)
 
-    logger.info(f"Logged message in channel: {channel_name}")
+    logger.info(f"Logged message in channel: {channel_name} from user: {user_name} (ID: {user_id})")
