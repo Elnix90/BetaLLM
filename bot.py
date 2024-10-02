@@ -116,16 +116,19 @@ async def on_command_error(ctx, error):
 async def on_message(ctx):
     if ctx.author == bot.user:
         return
+    
     if ctx.content.startswith("%"):
         logger.info(f"Message starts with command: {ctx.content} -> processing")
         await bot.process_commands(ctx)
         return
+
     elif bot.user in ctx.mentions:
         logger.info(f"Message started as a question: {ctx.content} -> sending request to API")
         if GLOBAL_PAUSE and not is_admin(ctx.author.id):
             await ctx.reply("Global pause is enabled. Only admins can use me at the moment.")
             logger.info("Global pause is enabled, request from non-admin user rejected")
             return
+        
         data = load_logs(ctx)
         if data["PAUSE"] == True and not is_admin(ctx.author.id):
             await ctx.reply("Pause is enabled in this channel. You can ask an admin or wait for a while.")
@@ -148,11 +151,13 @@ async def on_message(ctx):
                 past_interactions = get_past_interactions(ctx)
                 data['messages'].extend(past_interactions)
                 data['messages'].append({"role": "user", "content": question})
+
                 try:
                     async with ctx.channel.typing():
                         async with aiohttp.ClientSession() as session:
                             async with session.post(url, headers=headers, json=data) as response:
                                 response_data = await response.json()
+
                                 if 'error' in response_data:
                                     error_message = response_data['error'].get('message', 'Unknown error')
                                     error_code = response_data['error'].get('code', 'Unknown code')
@@ -170,19 +175,24 @@ async def on_message(ctx):
                                     await ctx.channel.send(user_message)
                                     logger.error(f"API Error: Code {error_code}, Message: {error_message}")
                                     return
+                                
                                 bot_response = response_data['choices'][0]['message']['content']
-                                # Send the bot response in chunks if it exceeds Discord's character limit
+
+
                                 await log_to_server(ctx, question, bot_response)
                                 await send_large_message(ctx, bot_response)
 
                                 logs_to_save = {"user_id": ctx.author.id, "user_message": question, "bot_response": bot_response}
                                 save_logs(ctx, logs=logs_to_save)
                                 logger.info(f"Response sent and logs saved for channel {ctx.channel.id}")
+
                 except Exception as e:
                     await ctx.channel.send(f"An error occurred while calling the API: {e}")
                     logger.error(f"Error during API call: {e}")
+
         elif (ctx.author != bot.user) and (bot.user in ctx.mentions):
             await ctx.channel.send("This Channel/DM is not whitelisted. You can ask an admin to whitelist your channel using '%wlch'.")
             logger.warning(f"Attempt to use bot in non-whitelisted channel: {ctx.channel.id}")
+
 
 bot.run(DISCORD_TOKEN)

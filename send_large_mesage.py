@@ -12,7 +12,7 @@ LANGUAGE_EXTENSIONS = {
     'perl': 'pl', 'lua': 'lua', 'haskell': 'hs', 'julia': 'jl'
 }
 
-async def send_large_message(ctx, message):
+async def send_large_message(destination, message, replying=True):
     max_length = 2000
     code_block_pattern = re.compile(r'```(\w+)?\n(.*?)```', re.DOTALL)
     
@@ -22,14 +22,23 @@ async def send_large_message(ctx, message):
     # Remove code blocks from the message
     message_without_code = code_block_pattern.sub('', message)
     
+    # Determine the appropriate send method
+    async def send(content, file=None):
+        if isinstance(destination, discord.TextChannel):
+            return await destination.send(content, file=file)
+        elif hasattr(destination, 'reply') and replying:
+            return await destination.reply(content, file=file)
+        else:
+            return await destination.send(content, file=file)
+    
     # Send the message without code blocks
     if len(message_without_code) <= max_length:
-        await ctx.reply(message_without_code)
+        await send(message_without_code)
     else:
         parts = [message_without_code[i:i+max_length] for i in range(0, len(message_without_code), max_length)]
-        await ctx.reply(parts[0])
+        await send(parts[0])
         for part in parts[1:]:
-            await ctx.channel.send(f"{ctx.author.mention} {part}")
+            await send(part)
     
     # Send code blocks as files
     for i, (lang, code) in enumerate(code_blocks):
@@ -38,5 +47,4 @@ async def send_large_message(ctx, message):
         file_content = code.strip()
         file = io.StringIO(file_content)
         discord_file = discord.File(file, filename=f"code_block_{i+1}.{extension}")
-        await ctx.channel.send(f"Code block {i+1} ({lang}):", file=discord_file)
-
+        await send(f"Code block {i+1} ({lang}):", file=discord_file)

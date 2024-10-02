@@ -695,3 +695,48 @@ La dynamique de l'équilibre entre pouvoir et autonomie est en constante évolutio
 2024-10-02 06:57:51,608 - bot - INFO - Message starts with command: %switch_api -> processing
 2024-10-02 06:57:57,280 - bot - INFO - Message started as a question: <@1286951598958051371> test -> sending request to API
 2024-10-02 06:57:58,188 - bot - ERROR - API Error: Code 402, Message: You are either out of credits, or requesting a resource that requires owning at least a few. Please visit https://openrouter.ai/credits to add more.
+2024-10-02 07:05:01,495 - bot - INFO - The bot is connected as BetaLLM#1090
+2024-10-02 07:05:02,522 - bot - INFO - DM sent to user 703604544348749994
+2024-10-02 07:05:03,285 - bot - INFO - Member roles have been assigned
+2024-10-02 07:05:10,256 - bot - INFO - Message started as a question: <@1286951598958051371> TEST -> sending request to API
+2024-10-02 07:05:11,137 - bot - ERROR - API Error: Code 402, Message: You are either out of credits, or requesting a resource that requires owning at least a few. Please visit https://openrouter.ai/credits to add more.
+2024-10-02 14:39:50,403 - bot - INFO - The bot is connected as BetaLLM#1090
+2024-10-02 14:39:51,213 - bot - INFO - DM sent to user 703604544348749994
+2024-10-02 14:39:52,000 - bot - INFO - Member roles have been assigned
+2024-10-02 14:39:55,407 - bot - INFO - Message started as a question: <@1286951598958051371> test -> sending request to API
+2024-10-02 14:39:56,146 - bot - ERROR - API Error: Code 402, Message: You are either out of credits, or requesting a resource that requires owning at least a few. Please visit https://openrouter.ai/credits to add more.
+2024-10-02 14:45:21,528 - bot - INFO - The bot is connected as BetaLLM#1090
+2024-10-02 14:45:22,450 - bot - INFO - DM sent to user 703604544348749994
+2024-10-02 14:45:23,521 - bot - INFO - Member roles have been assigned
+2024-10-02 14:46:00,838 - bot - INFO - Message started as a question: <@1286951598958051371> salut? -> sending request to API
+2024-10-02 14:46:03,152 - bot - ERROR - Error during API call: 'TextChannel' object has no attribute 'reply'
+2024-10-02 14:49:13,830 - bot - INFO - Message started as a question: <@1286951598958051371> salut -> sending request to API
+2024-10-02 14:49:14,051 - bot - INFO - The bot is connected as BetaLLM#1090
+2024-10-02 14:49:14,909 - bot - INFO - DM sent to user 703604544348749994
+2024-10-02 14:49:15,534 - bot - ERROR - Error during API call: 'TextChannel' object has no attribute 'message'
+2024-10-02 14:49:15,676 - bot - INFO - Member roles have been assigned
+2024-10-02 14:54:41,725 - bot - INFO - The bot is connected as BetaLLM#1090
+2024-10-02 14:54:42,701 - bot - INFO - DM sent to user 703604544348749994
+2024-10-02 14:54:43,418 - bot - INFO - Member roles have been assigned
+2024-10-02 14:54:44,119 - bot - INFO - Message started as a question: <@1286951598958051371> salut -> sending request to API
+2024-10-02 14:54:46,749 - bot - INFO - Response sent and logs saved for channel 1286948882705809500
+2024-10-02 15:02:06,278 - bot - INFO - The bot is connected as BetaLLM#1090
+2024-10-02 15:02:07,388 - bot - INFO - DM sent to user 703604544348749994
+2024-10-02 15:02:08,135 - bot - INFO - Member roles have been assigned
+2024-10-02 15:02:08,322 - bot - INFO - Message started as a question: <@1286951598958051371> salut -> sending request to API
+2024-10-02 15:02:11,926 - bot - ERROR - API Error: Code 429, Message: {
+  "error": {
+    "message": "You have been rate limited for model meta-llama/Llama-Vision-Free. Your rate limit is 10.000000002 queries per minute. Please navigate to https://api.together.xyz/settings/billing to upgrade your plan and see your limit.",
+    "type": "model_rate_limit",
+    "param": null,
+    "code": null
+  }
+}
+2024-10-02 15:03:37,330 - bot - INFO - The bot is connected as BetaLLM#1090
+2024-10-02 15:03:38,311 - bot - INFO - DM sent to user 703604544348749994
+2024-10-02 15:03:38,479 - bot - INFO - Message started as a question: <@1286951598958051371> salut -> sending request to API
+2024-10-02 15:03:39,103 - bot - INFO - Member roles have been assigned
+2024-10-02 15:03:41,402 - bot - INFO - Response sent and logs saved for channel 1286948882705809500
+2024-10-02 15:04:02,760 - bot - INFO - Message started as a question: <@1286951598958051371> szalut -> sending request to API
+2024-10-02 15:04:05,652 - bot - INFO - Response sent and logs saved for channel 1287089531518189621
+2024-10-02 15:04:24,462 - bot - INFO - Message started as a question: <@1286951598958051371> Are you working now ? -> sending request to API
