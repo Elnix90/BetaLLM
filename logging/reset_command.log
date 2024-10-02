@@ -10,3 +10,7 @@
 2024-09-30 19:26:05,853 - reset_command - INFO - No log file found for this channel
 2024-09-30 21:00:30,170 - reset_command - INFO - elnix91 used %reset
 2024-09-30 21:00:30,625 - reset_command - INFO - The logs for the channel ID 1286315584916815966 have been reset
+2024-10-01 06:46:04,765 - reset_command - INFO - elnix91 used %reset
+2024-10-01 06:46:04,994 - reset_command - INFO - The logs for the channel ID 1286315584916815966 have been reset
+2024-10-01 06:46:35,294 - reset_command - INFO - elnix91 used %reset
+2024-10-01 06:46:35,543 - reset_command - INFO - No log file found for this channel

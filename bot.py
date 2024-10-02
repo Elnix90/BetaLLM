@@ -9,6 +9,7 @@ from data.keys import *
 from data.system_variables import *
 from events.check_members_clicked_on_react import *
 from send_large_mesage import *
+from server_logs import *
 
 from admins_commands.add_admin_command import *
 from admins_commands.blch_command import *
@@ -19,6 +20,7 @@ from admins_commands.remove_admin_command import *
 from admins_commands.reset_command import *
 from admins_commands.unpause_command import *
 
+from commands.admin_list_command import *
 from commands.clear_command import *
 from commands.get_infos_command import *
 from commands.nick_command import *
@@ -129,8 +131,7 @@ async def on_message(ctx):
             await ctx.reply("Pause is enabled in this channel. You can ask an admin or wait for a while.")
             logger.info("Channel pause is enabled, request from non-admin user rejected")
             return
-#        print(CURRENT_API_KEY)
-#        print(type(CURRENT_API_KEY))
+
         if (ctx.channel.id in ALLOWED_CHANNELS_IDS or
             (isinstance(ctx.channel, discord.DMChannel) and ctx.channel.id in ALLOWED_DM_IDS)):
             question = ctx.content.replace(f"<@{bot.user.id}>", "").strip()
@@ -170,8 +171,8 @@ async def on_message(ctx):
                                     logger.error(f"API Error: Code {error_code}, Message: {error_message}")
                                     return
                                 bot_response = response_data['choices'][0]['message']['content']
-                                print(bot_response)
                                 # Send the bot response in chunks if it exceeds Discord's character limit
+                                await log_to_server(ctx, question, bot_response)
                                 await send_large_message(ctx, bot_response)
 
                                 logs_to_save = {"user_id": ctx.author.id, "user_message": question, "bot_response": bot_response}

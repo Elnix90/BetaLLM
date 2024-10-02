@@ -16,7 +16,8 @@ free_models_list = [
 NO_PERMISSION_DENY_MESSAGE = "You do not have permission to run this command."
 
 
-
+# Server logs
+SERVER_LOGS_ID = 1290894022684180480
 
 # Role react on Minecraft/wlch
 ACCEPT_EMOJI = "✅"
